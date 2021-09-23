@@ -65,28 +65,38 @@ Vary: Accept
 
 You can choose where to develop this project. Pick the IDE you are most confortable with. But make sure it runs.
 
-If you are not sure, we recommend **forking** it on [StackBlitz](https://stackblitz.com/github/PlugAndPlayTechCenter/FrontPairScreening). Don't forget to click on the 'FORK' button!
+If you are not sure, we recommend **forking** it on [GitHub](https://github.com/PlugAndPlayTechCenter/DjangoAssessment). Don't forget to click on the 'FORK' button!
 
 
 # Tasks
-## Task 1: Bring the data from the REST API to the component and show several users in a bootstrap grid.
+## Task 1: Our team will like to have a logo and a list of contacts for the startups so please add them to the Startup model and to all places needed in order to be able to serialize the new info and deserialize it along with the rest of the startup info. The contacts model should contain at least position, company, email and full name of the contact. A contact cannot be in more than one startup.
 Once you are done answer these questions:
 
-1. How will you handle backend API errors? Describe in detail the approach and explain why you opted for it
+1. How will yo ensure an optimal performance of the new serializer for startups?
 2. How will you implement pagination? Why?
-3. How will you store the data retrieved from the backend?
-4. Please identify what UNIT and INTEGRATION tests will this component require.
+3. Please identify what UNIT and INTEGRATION tests will this API require.
 
 
-## Task 2: Code the functionality of the "Mark as favourite" button. Design the calls to the backend service
-Nice to have: A section showing only “my favorites” on the same page.
+## Task 2: Plug and Play partners with a huge list of mentors, corporate partners and other stakeholders. We want to be able to track which partner has introduced a startup to us. Create a new model named Prescriptor, this new model should contain the same info as a contact but in this case a contact can be linked to several startups. You will need fill up the new Prescriptor model with some sample data.
+
+Note: You are allowed refactor the original contact model in order to create a clean and reusable design 
+
+Nice to have: The Prescriptor serializer should include the total number of startups that the prescriptor has introduced to us.
 
 Once you are done answer these questions:
 
-1. What calls to the backend API have you used? What data entities do you need? Why?
-2. What tasks, other than coding, will you perform before sending to your peers for code review?
-3. What type of security controls will this functionality require at both ends (client and server side)?
-4. What improvements will you suggest to your team and customer for this solution? Why?
+1. Explain your design. What other options have you considered and why did you choose that one.
+2. Do you know the content type framework? What use cases do you think is fit for purpose?
+3. What tasks, other than coding, will you perform before sending to your peers for code review?
+
+
+## Task 3: Plug and Play Compliance team has requested us that we introduce some security in the API so only admins and the users that have been added as "to be shared with" can get access to the startup info. Please improve the model and the endpoint to apply the required security.
+
+Once you are done answer these questions:
+
+1. How did you approach the new security needs? Why?
+2. Mention some common API security issues and how will you mitigate or remove them.
+
 
 # Wrap-up
 We thank you very much for your time and wish you the best of luck in this process.
