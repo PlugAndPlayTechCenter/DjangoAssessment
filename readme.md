@@ -3,8 +3,9 @@
 Note: This scenario is based on the latest versions of Django and Django Rest Framework. You can get it up running by:
 1. Migrate default database: python manage.py migrate
 2. Create super user (currently) : email admin@assessment.com username: admin pwd: pnptc123
-3. Run server: python manage.py runserver
-4. App will be accessible at http://localhost:8000 and the admin panel at http://localhost:8000/admin/
+3. Load fixtures.
+4. Run server: python manage.py runserver
+5. App will be accessible at http://localhost:8000 and the admin panel at http://localhost:8000/admin/
 
 ## The Scenario
 Our application, PlayBook is an innovation platform, a key aspect of innovation is being able to meet and analyze a large footprint of startups, for that purpose the team built an API to help manage the startups database for our staff.
