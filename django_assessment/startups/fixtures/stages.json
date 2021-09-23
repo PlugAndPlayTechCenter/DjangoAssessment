@@ -1,0 +1,51 @@
+[
+    {
+        "model": "startups.stage",
+        "pk": 1,
+        "fields": {
+            "stage_name": "Bootstrapped"
+        }
+    },
+    {
+        "model": "startups.stage",
+        "pk": 2,
+        "fields": {
+            "stage_name": "Pre-seed"
+        }
+    },
+    {
+        "model": "startups.stage",
+        "pk": 3,
+        "fields": {
+            "stage_name": "Seed"
+        }
+    },
+    {
+        "model": "startups.stage",
+        "pk": 4,
+        "fields": {
+            "stage_name": "Series A"
+        }
+    },
+    {
+        "model": "startups.stage",
+        "pk": 5,
+        "fields": {
+            "stage_name": "Series B"
+        }
+    },
+    {
+        "model": "startups.stage",
+        "pk": 6,
+        "fields": {
+            "stage_name": "Series C"
+        }
+    },
+    {
+        "model": "startups.stage",
+        "pk": 7,
+        "fields": {
+            "stage_name": "Series D+"
+        }
+    }
+]

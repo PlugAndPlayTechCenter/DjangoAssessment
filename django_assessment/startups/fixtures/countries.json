@@ -1,0 +1,1703 @@
+[
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Afghanistan",
+            "country_code": "AF"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Åland Islands",
+            "country_code": "AX"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Albania",
+            "country_code": "AL"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Algeria",
+            "country_code": "DZ"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "American Samoa",
+            "country_code": "AS"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "AndorrA",
+            "country_code": "AD"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Angola",
+            "country_code": "AO"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Anguilla",
+            "country_code": "AI"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Antarctica",
+            "country_code": "AQ"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Antigua and Barbuda",
+            "country_code": "AG"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Argentina",
+            "country_code": "AR"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Armenia",
+            "country_code": "AM"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Aruba",
+            "country_code": "AW"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Australia",
+            "country_code": "AU"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Austria",
+            "country_code": "AT"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Azerbaijan",
+            "country_code": "AZ"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Bahamas",
+            "country_code": "BS"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Bahrain",
+            "country_code": "BH"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Bangladesh",
+            "country_code": "BD"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Barbados",
+            "country_code": "BB"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Belarus",
+            "country_code": "BY"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Belgium",
+            "country_code": "BE"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Belize",
+            "country_code": "BZ"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Benin",
+            "country_code": "BJ"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Bermuda",
+            "country_code": "BM"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Bhutan",
+            "country_code": "BT"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Bolivia",
+            "country_code": "BO"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Bosnia and Herzegovina",
+            "country_code": "BA"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Botswana",
+            "country_code": "BW"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Bouvet Island",
+            "country_code": "BV"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Brazil",
+            "country_code": "BR"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "British Indian Ocean Territory",
+            "country_code": "IO"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Brunei Darussalam",
+            "country_code": "BN"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Bulgaria",
+            "country_code": "BG"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Burkina Faso",
+            "country_code": "BF"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Burundi",
+            "country_code": "BI"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Cambodia",
+            "country_code": "KH"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Cameroon",
+            "country_code": "CM"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Canada",
+            "country_code": "CA"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Cape Verde",
+            "country_code": "CV"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Cayman Islands",
+            "country_code": "KY"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Central African Republic",
+            "country_code": "CF"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Chad",
+            "country_code": "TD"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Chile",
+            "country_code": "CL"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "China",
+            "country_code": "CN"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Christmas Island",
+            "country_code": "CX"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Cocos (Keeling) Islands",
+            "country_code": "CC"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Colombia",
+            "country_code": "CO"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Comoros",
+            "country_code": "KM"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Congo",
+            "country_code": "CG"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Congo, The Democratic Republic of the",
+            "country_code": "CD"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Cook Islands",
+            "country_code": "CK"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Costa Rica",
+            "country_code": "CR"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Cote D'Ivoire",
+            "country_code": "CI"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Croatia",
+            "country_code": "HR"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Cuba",
+            "country_code": "CU"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Cyprus",
+            "country_code": "CY"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Czech Republic",
+            "country_code": "CZ"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Denmark",
+            "country_code": "DK"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Djibouti",
+            "country_code": "DJ"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Dominica",
+            "country_code": "DM"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Dominican Republic",
+            "country_code": "DO"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Ecuador",
+            "country_code": "EC"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Egypt",
+            "country_code": "EG"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "El Salvador",
+            "country_code": "SV"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Equatorial Guinea",
+            "country_code": "GQ"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Eritrea",
+            "country_code": "ER"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Estonia",
+            "country_code": "EE"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Ethiopia",
+            "country_code": "ET"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Falkland Islands (Malvinas)",
+            "country_code": "FK"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Faroe Islands",
+            "country_code": "FO"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Fiji",
+            "country_code": "FJ"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Finland",
+            "country_code": "FI"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "France",
+            "country_code": "FR"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "French Guiana",
+            "country_code": "GF"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "French Polynesia",
+            "country_code": "PF"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "French Southern Territories",
+            "country_code": "TF"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Gabon",
+            "country_code": "GA"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Gambia",
+            "country_code": "GM"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Georgia",
+            "country_code": "GE"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Germany",
+            "country_code": "DE"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Ghana",
+            "country_code": "GH"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Gibraltar",
+            "country_code": "GI"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Greece",
+            "country_code": "GR"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Greenland",
+            "country_code": "GL"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Grenada",
+            "country_code": "GD"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Guadeloupe",
+            "country_code": "GP"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Guam",
+            "country_code": "GU"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Guatemala",
+            "country_code": "GT"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Guernsey",
+            "country_code": "GG"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Guinea",
+            "country_code": "GN"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Guinea-Bissau",
+            "country_code": "GW"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Guyana",
+            "country_code": "GY"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Haiti",
+            "country_code": "HT"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Heard Island and Mcdonald Islands",
+            "country_code": "HM"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Holy See (Vatican City State)",
+            "country_code": "VA"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Honduras",
+            "country_code": "HN"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Hong Kong",
+            "country_code": "HK"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Hungary",
+            "country_code": "HU"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Iceland",
+            "country_code": "IS"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "India",
+            "country_code": "IN"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Indonesia",
+            "country_code": "ID"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Iran, Islamic Republic Of",
+            "country_code": "IR"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Iraq",
+            "country_code": "IQ"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Ireland",
+            "country_code": "IE"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Isle of Man",
+            "country_code": "IM"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Israel",
+            "country_code": "IL"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Italy",
+            "country_code": "IT"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Jamaica",
+            "country_code": "JM"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Japan",
+            "country_code": "JP"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Jersey",
+            "country_code": "JE"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Jordan",
+            "country_code": "JO"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Kazakhstan",
+            "country_code": "KZ"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Kenya",
+            "country_code": "KE"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Kiribati",
+            "country_code": "KI"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Korea, Democratic People'S Republic of",
+            "country_code": "KP"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Korea, Republic of",
+            "country_code": "KR"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Kuwait",
+            "country_code": "KW"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Kyrgyzstan",
+            "country_code": "KG"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Lao People'S Democratic Republic",
+            "country_code": "LA"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Latvia",
+            "country_code": "LV"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Lebanon",
+            "country_code": "LB"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Lesotho",
+            "country_code": "LS"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Liberia",
+            "country_code": "LR"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Libyan Arab Jamahiriya",
+            "country_code": "LY"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Liechtenstein",
+            "country_code": "LI"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Lithuania",
+            "country_code": "LT"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Luxembourg",
+            "country_code": "LU"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Macao",
+            "country_code": "MO"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Macedonia, The Former Yugoslav Republic of",
+            "country_code": "MK"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Madagascar",
+            "country_code": "MG"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Malawi",
+            "country_code": "MW"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Malaysia",
+            "country_code": "MY"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Maldives",
+            "country_code": "MV"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Mali",
+            "country_code": "ML"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Malta",
+            "country_code": "MT"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Marshall Islands",
+            "country_code": "MH"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Martinique",
+            "country_code": "MQ"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Mauritania",
+            "country_code": "MR"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Mauritius",
+            "country_code": "MU"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Mayotte",
+            "country_code": "YT"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Mexico",
+            "country_code": "MX"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Micronesia, Federated States of",
+            "country_code": "FM"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Moldova, Republic of",
+            "country_code": "MD"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Monaco",
+            "country_code": "MC"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Mongolia",
+            "country_code": "MN"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Montserrat",
+            "country_code": "MS"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Morocco",
+            "country_code": "MA"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Mozambique",
+            "country_code": "MZ"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Myanmar",
+            "country_code": "MM"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Namibia",
+            "country_code": "NA"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Nauru",
+            "country_code": "NR"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Nepal",
+            "country_code": "NP"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Netherlands",
+            "country_code": "NL"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Netherlands Antilles",
+            "country_code": "AN"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "New Caledonia",
+            "country_code": "NC"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "New Zealand",
+            "country_code": "NZ"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Nicaragua",
+            "country_code": "NI"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Niger",
+            "country_code": "NE"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Nigeria",
+            "country_code": "NG"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Niue",
+            "country_code": "NU"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Norfolk Island",
+            "country_code": "NF"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Northern Mariana Islands",
+            "country_code": "MP"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Norway",
+            "country_code": "NO"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Oman",
+            "country_code": "OM"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Pakistan",
+            "country_code": "PK"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Palau",
+            "country_code": "PW"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Palestinian Territory, Occupied",
+            "country_code": "PS"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Panama",
+            "country_code": "PA"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Papua New Guinea",
+            "country_code": "PG"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Paraguay",
+            "country_code": "PY"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Peru",
+            "country_code": "PE"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Philippines",
+            "country_code": "PH"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Pitcairn",
+            "country_code": "PN"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Poland",
+            "country_code": "PL"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Portugal",
+            "country_code": "PT"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Puerto Rico",
+            "country_code": "PR"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Qatar",
+            "country_code": "QA"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Reunion",
+            "country_code": "RE"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Romania",
+            "country_code": "RO"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Russian Federation",
+            "country_code": "RU"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "RWANDA",
+            "country_code": "RW"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Saint Helena",
+            "country_code": "SH"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Saint Kitts and Nevis",
+            "country_code": "KN"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Saint Lucia",
+            "country_code": "LC"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Saint Pierre and Miquelon",
+            "country_code": "PM"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Saint Vincent and the Grenadines",
+            "country_code": "VC"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Samoa",
+            "country_code": "WS"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "San Marino",
+            "country_code": "SM"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Sao Tome and Principe",
+            "country_code": "ST"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Saudi Arabia",
+            "country_code": "SA"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Senegal",
+            "country_code": "SN"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Serbia and Montenegro",
+            "country_code": "CS"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Seychelles",
+            "country_code": "SC"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Sierra Leone",
+            "country_code": "SL"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Singapore",
+            "country_code": "SG"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Slovakia",
+            "country_code": "SK"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Slovenia",
+            "country_code": "SI"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Solomon Islands",
+            "country_code": "SB"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Somalia",
+            "country_code": "SO"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "South Africa",
+            "country_code": "ZA"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "South Georgia and the South Sandwich Islands",
+            "country_code": "GS"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Spain",
+            "country_code": "ES"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Sri Lanka",
+            "country_code": "LK"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Sudan",
+            "country_code": "SD"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Suriname",
+            "country_code": "SR"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Svalbard and Jan Mayen",
+            "country_code": "SJ"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Swaziland",
+            "country_code": "SZ"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Sweden",
+            "country_code": "SE"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Switzerland",
+            "country_code": "CH"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Syrian Arab Republic",
+            "country_code": "SY"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Taiwan, Province of China",
+            "country_code": "TW"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Tajikistan",
+            "country_code": "TJ"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Tanzania, United Republic of",
+            "country_code": "TZ"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Thailand",
+            "country_code": "TH"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Timor-Leste",
+            "country_code": "TL"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Togo",
+            "country_code": "TG"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Tokelau",
+            "country_code": "TK"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Tonga",
+            "country_code": "TO"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Trinidad and Tobago",
+            "country_code": "TT"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Tunisia",
+            "country_code": "TN"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Turkey",
+            "country_code": "TR"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Turkmenistan",
+            "country_code": "TM"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Turks and Caicos Islands",
+            "country_code": "TC"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Tuvalu",
+            "country_code": "TV"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Uganda",
+            "country_code": "UG"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Ukraine",
+            "country_code": "UA"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "United Arab Emirates",
+            "country_code": "AE"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "United Kingdom",
+            "country_code": "GB"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "United States",
+            "country_code": "US"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "United States Minor Outlying Islands",
+            "country_code": "UM"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Uruguay",
+            "country_code": "UY"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Uzbekistan",
+            "country_code": "UZ"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Vanuatu",
+            "country_code": "VU"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Venezuela",
+            "country_code": "VE"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Viet Nam",
+            "country_code": "VN"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Virgin Islands, British",
+            "country_code": "VG"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Virgin Islands, U.S.",
+            "country_code": "VI"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Wallis and Futuna",
+            "country_code": "WF"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Western Sahara",
+            "country_code": "EH"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Yemen",
+            "country_code": "YE"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Zambia",
+            "country_code": "ZM"
+        }
+    },
+    {
+        "model": "startups.country",
+        "fields": {
+            "country_name": "Zimbabwe",
+            "country_code": "ZW"
+        }
+    }
+]

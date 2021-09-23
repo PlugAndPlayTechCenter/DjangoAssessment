@@ -1,0 +1,114 @@
+[
+    {
+        "model": "startups.startup",
+        "fields": {
+            "startup_name" : "JetSon Engines",
+            "website": "https://jetson.engines",
+            "one_liner" : "The best Jet Engines that New Zealand can produce.",
+            "description": "New Zealand best engineers have created a fantastic engine that can run in low fuel.",
+            "country" : ["NZ"],
+            "city" : "Auckland",
+            "founded" : "2017",
+            "stage": ["Series A"],
+            "money_raised_usd" : "1000000",
+            "created" : "2021-09-16T17:41:28+00:00",
+            "updated" : "2021-09-16T17:41:28+00:00"
+        }
+    },
+    {
+        "model": "startups.startup",
+        "fields": {
+            "startup_name" : "O'Connell, Fritsch and Fahey",
+            "website": "https://oconnell.com",
+            "one_liner" : "Benchmark Wireless Mindshare",
+            "description": "Cloned Value-Added Portal",
+            "country" : ["US"],
+            "city" : "Detroit",
+            "founded" : "2009",
+            "stage": ["Series B"],
+            "money_raised_usd" : "500000",
+            "created" : "2021-09-16T17:41:28+00:00",
+            "updated" : "2021-09-16T17:41:28+00:00"
+        }
+    },
+    {
+        "model": "startups.startup",
+        "fields": {
+            "startup_name" : "SV Systems",
+            "website": "svs.com",
+            "one_liner" : "Streamline Vertical Systems",
+            "description": "Extended Optimizing Productivity",
+            "country" : ["GB"],
+            "city"  : "London",
+            "founded" : "2015",
+            "stage": ["Seed"],
+            "money_raised_usd" : "20000",
+            "created" : "2021-09-16T17:41:28+00:00",
+            "updated" : "2021-09-16T17:41:28+00:00"
+        }
+    },
+    {
+        "model": "startups.startup",
+        "fields": {
+            "startup_name" : "Hauck-Lemke",
+            "website": "hauck.com",
+            "one_liner" : "Iterate Compelling E-Business",
+            "description": "Front-Line Solution-Oriented Complexity",
+            "country" : ["ES"],
+            "city"  : "Valencia",
+            "founded" : "2010",
+            "stage": ["Seed"],
+            "money_raised_usd" : "20000",
+            "created" : "2021-09-16T17:41:28+00:00",
+            "updated" : "2021-09-16T17:41:28+00:00"
+        }
+    },
+    {
+        "model": "startups.startup",
+        "fields": {
+            "startup_name" : "Kuphal-Jacobson",
+            "website": "kuphal.com",
+            "one_liner" : "Cross Group coheren functionalities",
+            "description": "Utilize Enterprise niches",
+            "country" : ["DE"],
+            "city"  : "Bohn",
+            "founded" : "2010",
+            "stage": ["Pre-seed"],
+            "money_raised_usd" : "25000",
+            "created" : "2021-09-16T17:41:28+00:00",
+            "updated" : "2021-09-16T17:41:28+00:00"
+        }
+    },
+    {
+        "model": "startups.startup",
+        "fields": {
+            "startup_name" : "Briskall Bots",
+            "website": "bbots.com",
+            "one_liner" : "Best Bots from Africa",
+            "description": "Our bots are the best ones from Africa",
+            "country" : ["ZA"],
+            "city"  : "Cape Town",
+            "founded" : "2019",
+            "stage": ["Series B"],
+            "money_raised_usd" : "2500000",
+            "created" : "2021-09-16T17:41:28+00:00",
+            "updated" : "2021-09-16T17:41:28+00:00"
+        }
+    },
+    {
+        "model": "startups.startup",
+        "fields": {
+            "startup_name" : "Hong Kong Financial Services",
+            "website": "hkfs.com",
+            "one_liner" : "Financial Services for a better world",
+            "description": "The most sustainable bank in Asia",
+            "country" : ["CN"],
+            "city"  : "Hong Kong",
+            "founded" : "2010",
+            "stage": ["Series C"],
+            "money_raised_usd" : "10000000",
+            "created" : "2021-09-16T17:41:28+00:00",
+            "updated" : "2021-09-16T17:41:28+00:00"
+        }
+    }
+]
