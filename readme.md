@@ -8,13 +8,13 @@ Note: This scenario is based on the latest versions of Django and Django Rest Fr
 5. App will be accessible at http://localhost:8000 and the admin panel at http://localhost:8000/admin/
 
 ## The Scenario
-Our application, Playbook is an innovation platform, a key aspect of innovation is being able to meet and analyze a large footprint of startups, for that purpose the team built an API to help manage the startups database for our staff.
+Our application, Playbook is an innovation platform, a key aspect of innovation is being able to meet and analyze a large footprint of startups, for that purpose the team built an API to help manage a startups database for our staff.
 
 The API has been in use for several months and our users have come several improvements to it.
 
 Please help our staff by completing below tasks.
 
-Please take your time to ask any question that can help you craft your software.
+Please take your time and ask any question that can help you craft your software.
 
 
 ## The API
@@ -89,12 +89,12 @@ Once you are done answer these questions:
 
 **Note:** You are allowed refactor the original contact model in order to create a clean and reusable design 
 
-Nice to have: The Prescriptor serializer should include the total number of startups that the prescriptor has introduced to us.
+**Nice to have:** The Prescriptor serializer should include the total number of startups that the prescriptor has introduced to us.
 
 Once you are done answer these questions:
 
-1. Explain your design. What other options have you considered and why did you choose that one.
-2. Do you know the content type framework? What use cases do you think is fit for purpose?
+1. Explain your design. What other options did you considered and why did you choose the way you implemented?
+2. Do you know the content type framework? What use cases do you think it fits for this purpose?
 3. What tasks, other than coding, will you perform before sending to your peers for code review?
 
 
