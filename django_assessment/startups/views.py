@@ -3,7 +3,7 @@ from django_assessment.startups.apps import StartupsConfig
 from django.contrib.auth.models import User, Group
 from rest_framework import viewsets
 from rest_framework import permissions
-from django_assessment.startups.serializers import StartupModifySerializer, StartupSerializer, UserSerializer, GroupSerializer
+from django_assessment.startups.serializers import StartupSerializer, UserSerializer, GroupSerializer
 
 
 class UserViewSet(viewsets.ModelViewSet):
