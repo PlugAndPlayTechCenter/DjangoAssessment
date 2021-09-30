@@ -2,19 +2,19 @@
 
 Note: This scenario is based on the latest versions of Django and Django Rest Framework. You can get it up running by:
 1. Migrate default database: python manage.py migrate
-2. Create super user (currently) : email admin@assessment.com username: admin pwd: pnptc123
+2. Create super user (optional) : You can use Username: `admin` Password: `pnptc123` to log in after starting the server.
 3. Load fixtures.
 4. Run server: python manage.py runserver
 5. App will be accessible at http://localhost:8000 and the admin panel at http://localhost:8000/admin/
 
 ## The Scenario
-Our application, PlayBook is an innovation platform, a key aspect of innovation is being able to meet and analyze a large footprint of startups, for that purpose the team built an API to help manage the startups database for our staff.
+Our application, Playbook is an innovation platform, a key aspect of innovation is being able to meet and analyze a large footprint of startups, for that purpose the team built an API to help manage a startups database for our staff.
 
 The API has been in use for several months and our users have come several improvements to it.
 
 Please help our staff by completing below tasks.
 
-Please take your time to ask any question that can help you craft your software.
+Please take your time and ask any question that can help you craft your software.
 
 
 ## The API
@@ -70,28 +70,37 @@ If you are not sure, we recommend **forking** it on [GitHub](https://github.com/
 
 
 # Tasks
-## Task 1: Our team will like to have a logo and a list of contacts for the startups so please add them to the Startup model and to all places needed in order to be able to serialize the new info and deserialize it along with the rest of the startup info. The contacts model should contain at least position, company, email and full name of the contact. A contact cannot be in more than one startup.
+## Task 1: Add a Logo and Contacts
+- **Our team will like to have a logo and a list of contacts for the startups so please add them to the Startup model and to all places needed in order to be able to serialize the new info and deserialize it along with the rest of the startup info.**
+- **The contacts model should contain at least position, company, email and full name of the contact.**
+- **A contact cannot be in more than one startup.**
+
 Once you are done answer these questions:
 
-1. How will yo ensure an optimal performance of the new serializer for startups?
+1. How will you ensure an optimal performance of the new serializer for startups?
 2. How will you implement pagination? Why?
 3. Please identify what UNIT and INTEGRATION tests will this API require.
 
 
-## Task 2: Plug and Play partners with a huge list of mentors, corporate partners and other stakeholders. We want to be able to track which partner has introduced a startup to us. Create a new model named Prescriptor, this new model should contain the same info as a contact but in this case a contact can be linked to several startups. You will need fill up the new Prescriptor model with some sample data.
+## Task 2: Track Introductions
+- **Plug and Play partners with a huge list of mentors, corporate partners and other stakeholders. We want to be able to track which partner has introduced a startup to us.** 
+- **Create a new model named Prescriptor, this new model should contain the same info as a contact but in this case a contact can be linked to several startups.** 
+- **You will need fill up the new Prescriptor model with some sample data.**
 
-Note: You are allowed refactor the original contact model in order to create a clean and reusable design 
+**Note:** You are allowed refactor the original contact model in order to create a clean and reusable design 
 
-Nice to have: The Prescriptor serializer should include the total number of startups that the prescriptor has introduced to us.
+**Nice to have:** The Prescriptor serializer should include the total number of startups that the prescriptor has introduced to us.
 
 Once you are done answer these questions:
 
-1. Explain your design. What other options have you considered and why did you choose that one.
-2. Do you know the content type framework? What use cases do you think is fit for purpose?
+1. Explain your design. What other options did you considered and why did you choose the way you implemented?
+2. Do you know the content type framework? What use cases do you think it fits for this purpose?
 3. What tasks, other than coding, will you perform before sending to your peers for code review?
 
 
-## Task 3: Plug and Play Compliance team has requested us that we introduce some security in the API so only admins and the users that have been added as "to be shared with" can get access to the startup info. Please improve the model and the endpoint to apply the required security.
+## Task 3: Security Compliance
+- **Plug and Play Compliance team has requested us that we introduce some security in the API so only admins and the users that have been added as "to be shared with" can get access to the startup info.**
+- **Please improve the model and the endpoint to apply the required security.**
 
 Once you are done answer these questions:
 
