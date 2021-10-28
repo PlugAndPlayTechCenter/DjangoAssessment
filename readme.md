@@ -69,6 +69,9 @@ You can choose where to develop this project. Pick the IDE you are most conforta
 If you are not sure, we recommend **forking** it on [GitHub](https://github.com/PlugAndPlayTechCenter/DjangoAssessment). Don't forget to click on the 'FORK' button!
 
 
+# Django Rest Framework Documentation
+https://www.django-rest-framework.org/
+
 # Tasks
 ## Task 1: Add a Logo and Contacts
 - **Our team will like to have a logo and a list of contacts for the startups so please add them to the Startup model and to all places needed in order to be able to serialize the new info and deserialize it along with the rest of the startup info.**
